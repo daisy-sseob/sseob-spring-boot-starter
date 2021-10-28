@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "seob",
+      "type": "me.sseob.SeobProperties",
+      "sourceType": "me.sseob.SeobProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "seob.how-long",
+      "type": "java.lang.Integer",
+      "sourceType": "me.sseob.SeobProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "seob.name",
+      "type": "java.lang.String",
+      "sourceType": "me.sseob.SeobProperties"
+    }
+  ],
+  "hints": []
+}
