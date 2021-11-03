@@ -23,7 +23,7 @@ public class Seob {
 
 	@Override
 	public String toString() {
-		return "Holoman{" +
+		return "Seob{" +
 				"name='" + name + '\'' +
 				", howLong=" + howLong +
 				'}';
